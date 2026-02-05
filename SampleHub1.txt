@@ -1,0 +1,3 @@
+This is my Sample file 1 in GitHub.
+Git Hub is a web based Git repository hosting service.
+GitHub is a website where you can store and manage your code online using a tool called Git (a version-control system).
